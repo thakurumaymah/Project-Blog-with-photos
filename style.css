@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-color: #f0e8c5;
+}
+
+div{
+    margin-top: 15px;
+}
+
+.image-section{
+    display: flexbox;
+    justify-content:center;
+}
+
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: #f0e8c5;
+}
+
+img{
+    height:500px;
+
+}
+p{
+    font-size: 30px;
+    color:#f50d0d;
+    font-weight: 900;
+}
+h1{
+    font-size: 50px;
+    color:palevioletred;
+    background-image:linear-gradient(#a5d8e7,#fab6db);
+}
+h2{
+    font-size: 30px;
+    color: darkslateblue;
+}
+h3{
+    font-size: 40px;
+    color: deeppink;
+}
